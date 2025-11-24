@@ -4,11 +4,10 @@ A 15-second sensor simulation using the Toronto-3D LiDAR dataset, exported to MC
 
 ## 🎥 Demo
 
-<video width="600" controls>
+<video width="650" controls>
   <source src="https://raw.githubusercontent.com/Danyabm/Toronto-3D-dataset_MCAP/main/lineartraj.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
 
 
 ## 📋 Overview
