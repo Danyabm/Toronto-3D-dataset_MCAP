@@ -54,9 +54,15 @@ run toronto.ipynb
 - **Camera resolution**: 1280×720
 - **LiDAR points/frame**: ~500-1000 points
 
-Graph of actual trajectory:
+Output of actual trajectory:
 
 <img width="1390" height="590" alt="image" src="https://github.com/user-attachments/assets/f987dfe4-7a00-42ca-b5fa-2010337259de" />
+
+### Why not Neural network:
+I'm trying to implement the same with neural network as well and was able to generate an Output graph of how neural enhancement is made, now implementing on training them.
+
+<img width="1790" height="389" alt="image" src="https://github.com/user-attachments/assets/cdc439fc-333b-4bf2-a121-90cc56702906" />
+
 
 
 
