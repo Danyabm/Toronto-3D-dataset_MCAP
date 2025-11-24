@@ -3,7 +3,11 @@
 A 15-second sensor simulation using the Toronto-3D LiDAR dataset, exported to MCAP format for visualization in Foxglove Studio.
 
 ## 🎥 Demo
-https://github.com/Danyabm/Toronto-3D-dataset_MCAP/blob/main/lineartraj.mp4
+
+<video width="600" controls>
+  <source src="https://github.com/username/repo/releases/download/v1.0/demo.mp4" type="video/mp4">
+</video>
+
 
 
 ## 📋 Overview
