@@ -16,22 +16,11 @@ This project creates a realistic autonomous vehicle sensor simulation with:
 
 ## Features
 
-- ✅ 15-second simulation with 150 frames
-- ✅ Aerial view of Toronto intersection
-- ✅ Real-time sensor data synchronization
-- ✅ Foxglove Studio compatible
-- ✅ Configurable point cloud density
-
-## Requirements
-
-```bash
-pip install open3d numpy mcap opencv-python matplotlib
-- Python 3.8+
-- open3d
-- numpy
-- mcap
-- opencv-python (cv2)
-- matplotlib
+- 15-second simulation with 150 frames
+- Aerial view of Toronto intersection
+- Real-time sensor data synchronization
+- Foxglove Studio compatible
+- Configurable point cloud density
 
 ## Dataset
 
