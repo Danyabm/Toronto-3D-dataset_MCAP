@@ -4,7 +4,6 @@ A 15-second sensor simulation using the Toronto-3D LiDAR dataset, exported to MC
 
 ## 🎥 Demo
 
-[Link to video demonstration]
 
 ## 📋 Overview
 
@@ -51,6 +50,8 @@ run toronto.ipynb
 Graph of actual trajectory:
 
 <img width="1390" height="590" alt="image" src="https://github.com/user-attachments/assets/f987dfe4-7a00-42ca-b5fa-2010337259de" />
+
+
 
 
 
